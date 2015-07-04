@@ -1,0 +1,2 @@
+print "neko o tabemasu"
+
